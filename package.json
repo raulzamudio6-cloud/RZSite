@@ -1,0 +1,16 @@
+{
+  "name": "raul-zamudio-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio profesional de Raúl Zamudio",
+  "main": "index.js",
+  "scripts": {
+    "build": "grunt"
+  },
+  "keywords": [],
+  "author": "Raúl Zamudio",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
